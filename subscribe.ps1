@@ -1,0 +1,1 @@
+Get-Content lista_mods.txt | ForEach-Object { steamctl workshop subscribe $_ }
