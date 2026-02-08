@@ -1,8 +1,9 @@
 # Local File to Steam Workshop Subscription:
-subscribe to a list of steam workshop items from zip files.
-WIP: this has been improvised and might not work correctly
+subscribe to a list of steam workshop items from zip files.  
+WIP: this has been improvised and might not work correctly  
+don't forget to use creamapi instead of screamapi!
 ## Use cases
-if you downloaded mods for a game (like cities skylines epic games) from a website (smods.ru, nexus...) and you want to move to steam, but you have too many mods/assets, you can use these scripts.
+if you downloaded mods for a game (like cities skylines epic games) from a website (smods.ru, nexus, skylinx...) and you want to move to steam, but you have too many mods/assets, you can use these scripts.
 ## Usage
 1. you need to have steamctl
    1. install python
